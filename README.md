@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/osandalakshitha" target="blank"><img src="https://img.shields.io/twitter/follow/osandalakshitha?logo=twitter&style=for-the-badge" alt="osandalakshitha" /></a> </p>
 
-- 🌱 I’m currently learning **OOP and C++**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **C , Coding stuff**
 
